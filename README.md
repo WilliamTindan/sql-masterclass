@@ -15,7 +15,7 @@ You can find all of the content and slides for Danny Ma's SQL Masterclass held a
 
 # Table of Contents
 
-- [📚 Course Content](#course-content)
+* [📚 Course Content](#course-content)
 - [📊 Accessing the Data](#accessing-the-data)
 - [🙏 Conclusion](#thank-you)
 - [😎 About the Author](#about-danny)
